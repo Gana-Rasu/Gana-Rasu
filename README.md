@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gana-Rasu
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in web development(MERN stack)
+- 🌱 I’m a web developer
 - 💞️ I’m looking to collaborate on front end projects
 - 📫 How to reach me  - gananathanthirunavukkarasu@gmail.com
 
